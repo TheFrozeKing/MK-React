@@ -13,16 +13,11 @@ function App() {
             src={coffeeImg}
           />
 
-            <FlexContainer alignItems='left' gap='20px'>
-              <p>ДЛЯ ДОМА</p>
-              <h2>Чашка «Утро»</h2>
-              <p>Простая керамическая чашка для любимого напитка.</p>
-            </FlexContainer>
+            <h2>Чашка «Утро»</h2>
+            <p>Простая керамическая чашка для любимого напитка.</p>
 
-            <FlexContainer direction="row" justifyContent="space-between" gap="12px">
-              <h3>790 Р</h3>
-              <button>Купить</button>
-            </FlexContainer>
+            <p><strong>720p</strong></p>
+            <button>купить</button>
 
         </FlexContainer>
       </Panel>
