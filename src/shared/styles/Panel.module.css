@@ -1,0 +1,7 @@
+.panel {
+    padding: 25px;
+    border-radius: 20px;
+    background: #f0f0f0;
+    box-shadow: 0 0 2px black;
+    width: fit-content;
+}
