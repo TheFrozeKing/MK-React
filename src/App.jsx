@@ -9,7 +9,7 @@ function App() {
     <main className="app">
       <Panel>
         <FlexContainer gap="20px" alignItems="stretch">
-          {/* <img 
+          <img 
             src={coffeeImg}
           />
 
@@ -18,7 +18,7 @@ function App() {
 
             <p><strong>720p</strong></p>
             <button>купить</button>
-          */}
+          
         </FlexContainer>
       </Panel>
     </main>
